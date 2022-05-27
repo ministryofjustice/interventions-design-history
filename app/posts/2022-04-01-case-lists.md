@@ -1,12 +1,10 @@
 ---
-title: "Our first post"
-description: "An initial look at what’s need to prepare for an appointment with a new service user"
+title: "Improving case lists for Probation Practioners and Service Providers"
+description: "Create new design proposals to improve performance of case lists for our users that have a lot of cases loading."
 date: 2020-04-01
 ---
 
-An initial look at what’s need to prepare for an appointment with a new service user
-
-Screens were shown to users for feedback.
+The amazing Leigh Christie kicked off this design work to help improve the user experience for Probation practioners and Service Providers who would sometimes have performance issues when opening the "All cases" tab on their case list view.
 
 ## Findings
 
